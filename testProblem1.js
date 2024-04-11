@@ -2,7 +2,7 @@
 import inventory from './inventory.js';
 import { problem1} from './problem1.js';
 
-// Call the function to find the car with ID 33
+// Calling the function to find the car with ID 33 
 const car33 = problem1(inventory,33);
 
 // Display the car's details if found
