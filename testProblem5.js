@@ -4,3 +4,4 @@ import { problem5} from './problem5.js';
 const result = problem5(inventory);
 
 console.log(result);
+console.log(result.length);
